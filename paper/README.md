@@ -1,2 +1,12 @@
-Always document what you do in NOTES.md file. When you want to put a figure, put it in `figs` folder and reference it in the NOTES.md file.
-See [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on how to write a markdown file
+# Sprint Project 01
+
+### Intial Data Exploration
+Created a jupyter notebook in the notebooks folder for initial data exploration and to add the code to be used in the workflows:
+``` text
+
+notebooks/
+├── data-format-viz.ipynb
+```
+- tidy datasets
+- create scatterplots
+
