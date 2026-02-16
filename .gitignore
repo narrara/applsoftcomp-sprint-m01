@@ -15,7 +15,6 @@ supp.pdf
 *.log
 
 # Data files
-*.csv
 *.tsv
 *.txt
 
