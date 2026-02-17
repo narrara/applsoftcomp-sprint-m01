@@ -1,7 +1,7 @@
 [project]
-name = "project-name"
+name = "applsoftcomp-sprint-m01"
 version = "0.1.0"
-description = "Project description"
+description = "Sprint Project 01"
 readme = "README.md"
 requires-python = ">=3.9"
 authors = [
